@@ -1,0 +1,16 @@
+C:\Users\Tipu\Desktop\DataStructures\LinkedList\SinglyLinkedList\SinglyLinkedList\bin\Debug\net5.0\SinglyLinkedList.exe
+C:\Users\Tipu\Desktop\DataStructures\LinkedList\SinglyLinkedList\SinglyLinkedList\bin\Debug\net5.0\SinglyLinkedList.deps.json
+C:\Users\Tipu\Desktop\DataStructures\LinkedList\SinglyLinkedList\SinglyLinkedList\bin\Debug\net5.0\SinglyLinkedList.runtimeconfig.json
+C:\Users\Tipu\Desktop\DataStructures\LinkedList\SinglyLinkedList\SinglyLinkedList\bin\Debug\net5.0\SinglyLinkedList.runtimeconfig.dev.json
+C:\Users\Tipu\Desktop\DataStructures\LinkedList\SinglyLinkedList\SinglyLinkedList\bin\Debug\net5.0\SinglyLinkedList.dll
+C:\Users\Tipu\Desktop\DataStructures\LinkedList\SinglyLinkedList\SinglyLinkedList\bin\Debug\net5.0\ref\SinglyLinkedList.dll
+C:\Users\Tipu\Desktop\DataStructures\LinkedList\SinglyLinkedList\SinglyLinkedList\bin\Debug\net5.0\SinglyLinkedList.pdb
+C:\Users\Tipu\Desktop\DataStructures\LinkedList\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\SinglyLinkedList.csproj.AssemblyReference.cache
+C:\Users\Tipu\Desktop\DataStructures\LinkedList\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\SinglyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipu\Desktop\DataStructures\LinkedList\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\SinglyLinkedList.AssemblyInfoInputs.cache
+C:\Users\Tipu\Desktop\DataStructures\LinkedList\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\SinglyLinkedList.AssemblyInfo.cs
+C:\Users\Tipu\Desktop\DataStructures\LinkedList\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Tipu\Desktop\DataStructures\LinkedList\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\SinglyLinkedList.dll
+C:\Users\Tipu\Desktop\DataStructures\LinkedList\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\ref\SinglyLinkedList.dll
+C:\Users\Tipu\Desktop\DataStructures\LinkedList\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\SinglyLinkedList.pdb
+C:\Users\Tipu\Desktop\DataStructures\LinkedList\SinglyLinkedList\SinglyLinkedList\obj\Debug\net5.0\SinglyLinkedList.genruntimeconfig.cache
